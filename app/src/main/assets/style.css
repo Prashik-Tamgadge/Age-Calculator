@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+label {
+    display: block;
+    margin-bottom: 25px;
+}
+
+input[type="date"] {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 10px;
+    background-color: #20b725;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 25px;
+}
+
+#next-birthday {
+    margin-top: 25px;
+    font-weight: bold;
+}
